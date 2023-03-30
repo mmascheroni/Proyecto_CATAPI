@@ -1,5 +1,5 @@
 const API_URL_RANDOM = ' https://api.thecatapi.com/v1/images/'
-const LIMIT_RANDOM = 'search?limit=12'
+const LIMIT_RANDOM = 'search?limit=16'
 
 const API_KEY = "live_AxdLngQtmaQJsTHJsunuuqWHm5cs1PN1N1pevU5u1LgxXliMphLMhcxkK1J0i6UX";
 
